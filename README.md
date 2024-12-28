@@ -4,7 +4,7 @@
 This project controls a 7-segment display using a push button. The user can manually increment the displayed number from 0 to 9 by pressing the button.
 
 ## Circuit
-![Circuit Diagram](circuit/7-Segment-with-button.png)  
+![Circuit Diagram](circuit/7-Segment_with-button.png)  
 *The circuit schematic for the push-button controlled 7-segment display.*
 
 ## Files
